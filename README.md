@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 I'm Samuel Guo, a full stack software engineer with a background in Chemical Engineering, and a passion for learning and problem solving. 
 - 🔭 I’m currently working on several freelance, volunteer, and personal projects primarily with the MERN stack.  
-  - an ecommerce site for a local candle vendor
+  - an ecommerce site for a local candle vendor: https://lyndseysscents.herokuapp.com/
   - implementing Ionic and Capacitor to migrate an existing web app to mobile: https://hatecrimetracker.1thing.org/
   - a personal passion project that will act as a skill progress tracker and daily planner
 - 🌱 I currently develop with the MERN stack, and am working on Typescript with the implementation of Ionic. 
