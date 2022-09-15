@@ -6,7 +6,10 @@
 Here are some ideas to get you started:
 -->
 
+<img alt = "coding" width = "600" src = "https://pin.it/7nCTE9H">
+
 I'm Samuel Guo, a full stack software engineer with a background in Chemical Engineering, and a passion for learning and problem solving. 
+
 - 🔭 I’m currently working on several freelance, volunteer, and personal projects primarily with the MERN stack.  
   - an ecommerce site for a local candle vendor: https://lyndseysscents.herokuapp.com/
   - implementing Ionic and Capacitor to migrate an existing web app to mobile: https://hatecrimetracker.1thing.org/
@@ -17,7 +20,6 @@ I'm Samuel Guo, a full stack software engineer with a background in Chemical Eng
 - ⚡ Fun fact: I am working on piano, re-learning Chinese, and playing around upside down (mastering handstands).
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sguo114&label=Profile%20views&color=0e75b6&style=flat" alt="sguo114" /> </p>
 
 ## 🛠️ Technologies
 
