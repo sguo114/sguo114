@@ -1,7 +1,7 @@
 <h1 align= "center">Hello World 👋 I'm Samuel Guo</h1>
 
 <p align="center">
-  <img alt = "coding" width = "400" src = "https://i.pinimg.com/564x/ec/5e/be/ec5ebe0c2f8341bab94d04de64127564.jpg" >
+  <img alt = "coding" width = "300" src = "https://i.pinimg.com/564x/ec/5e/be/ec5ebe0c2f8341bab94d04de64127564.jpg" >
 </p>
 
 
