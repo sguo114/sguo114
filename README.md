@@ -17,6 +17,8 @@ I'm Samuel Guo, a full stack software engineer with a background in Chemical Eng
 - ⚡ Fun fact: I am working on piano, re-learning Chinese, and playing around upside down (mastering handstands).
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sguo114&label=Profile%20views&color=0e75b6&style=flat" alt="sguo114" /> </p>
+
 ## 🛠️ Technologies
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
