@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<img alt = "coding" width = "600" src = "https://pin.it/7nCTE9H">
+<img alt = "coding" width = "600" src = "https://i.pinimg.com/564x/ec/5e/be/ec5ebe0c2f8341bab94d04de64127564.jpg">
 
 I'm Samuel Guo, a full stack software engineer with a background in Chemical Engineering, and a passion for learning and problem solving. 
 
