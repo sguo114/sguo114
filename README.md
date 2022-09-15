@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Samuel Guo
+<h1 align= "center">Hello World 👋 I'm Samuel Guo</h1>
 
 <p align="center">
   <img alt = "coding" width = "400" src = "https://i.pinimg.com/564x/ec/5e/be/ec5ebe0c2f8341bab94d04de64127564.jpg" >
@@ -6,10 +6,8 @@
 
 
 <img align ="right" alt="chemistry" width ="300" src = "https://i.pinimg.com/564x/d0/c6/d0/d0c6d04375239fca599767a41e75775d.jpg">
+
 Full stack software engineer with a background in Chemical Engineering, and a passion for learning and problem solving. 
-
-
-
 - 🔭 I’m currently working on several freelance, volunteer, and personal projects primarily with the MERN stack.  
   - an ecommerce site for a local candle vendor: https://lyndseysscents.herokuapp.com/
   - implementing Ionic and Capacitor to migrate an existing web app to mobile: https://hatecrimetracker.1thing.org/
