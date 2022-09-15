@@ -12,7 +12,6 @@ Full stack software engineer with a background in Chemical Engineering, and a pa
   - an ecommerce site for a local candle vendor: https://lyndseysscents.herokuapp.com/
   - implementing Ionic and Capacitor to migrate an existing web app to mobile: https://hatecrimetracker.1thing.org/
   - a personal passion project that will act as a skill progress tracker and daily planner
-
 - 🌱 I currently develop with the MERN stack, and am working on Typescript with the implementation of Ionic. 
 
 - 👨‍💻 View my projects at [https://www.samuelguo.netlify.app/](https://samuelguo.netlify.app/)
