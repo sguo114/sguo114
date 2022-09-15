@@ -1,4 +1,4 @@
-### Hi there 👋
+### <Hello World/> I'm Samuel Guo
 
 <!--
 **sguo114/sguo114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 <p align="center">
 
 </p>
-I'm Samuel Guo, a full stack software engineer with a background in Chemical Engineering, and a passion for learning and problem solving. 
+Full stack software engineer with a background in Chemical Engineering, and a passion for learning and problem solving. 
 
 <img align ="right" alt = "coding" width = "300" src = "https://i.pinimg.com/564x/ec/5e/be/ec5ebe0c2f8341bab94d04de64127564.jpg" >
 - 🔭 I’m currently working on several freelance, volunteer, and personal projects primarily with the MERN stack.  
