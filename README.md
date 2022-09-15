@@ -6,10 +6,11 @@
 Here are some ideas to get you started:
 -->
 <p align="center">
-<img alt = "coding" width = "300" src = "https://i.pinimg.com/564x/ec/5e/be/ec5ebe0c2f8341bab94d04de64127564.jpg" >
+
 </p>
 I'm Samuel Guo, a full stack software engineer with a background in Chemical Engineering, and a passion for learning and problem solving. 
 
+<img align ="right" alt = "coding" width = "300" src = "https://i.pinimg.com/564x/ec/5e/be/ec5ebe0c2f8341bab94d04de64127564.jpg" >
 - 🔭 I’m currently working on several freelance, volunteer, and personal projects primarily with the MERN stack.  
   - an ecommerce site for a local candle vendor: https://lyndseysscents.herokuapp.com/
   - implementing Ionic and Capacitor to migrate an existing web app to mobile: https://hatecrimetracker.1thing.org/
