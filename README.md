@@ -1,12 +1,7 @@
-### \<Hello World/> I'm Samuel Guo
+### Hello World 👋 I'm Samuel Guo
 
-<!--
-**sguo114/sguo114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <p align="center">
-
+<img alt="chemistry" width ="400" src = "https://i.pinimg.com/564x/d0/c6/d0/d0c6d04375239fca599767a41e75775d.jpg"/>
 </p>
 Full stack software engineer with a background in Chemical Engineering, and a passion for learning and problem solving. 
 
