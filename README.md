@@ -1,4 +1,4 @@
-### <Hello World/> I'm Samuel Guo
+### \<Hello World/>\ I'm Samuel Guo
 
 <!--
 **sguo114/sguo114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
