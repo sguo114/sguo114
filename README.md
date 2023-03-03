@@ -10,6 +10,7 @@
 <h4> I am a full stack software engineer with a background in Chemical Engineering. I love to learn and solve problems. My journey into software began with the automation of processes in the chemical industry, and has expanded to web development. </h4>
 
 - 🔭 I’m currently working on several freelance, volunteer, and personal projects primarily with the MERN stack.  
+  - the backend for a small startup building an app to improve communication in relationships: https://love-together.com/
   - an ecommerce site for a local candle vendor: https://lyndseyscents.com/
   - implementing Ionic and Capacitor to migrate an existing web app to mobile: https://hatecrimetracker.1thing.org/
   - a website for a local fitness business https://acrofitjax.com/
