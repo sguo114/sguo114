@@ -1,10 +1,5 @@
 <h1 align= "center">Hello World 👋 I'm Samuel Guo</h1>
 
-<p align="center">
-  <img alt = "coding" width = "200" src = "https://i.pinimg.com/564x/ec/5e/be/ec5ebe0c2f8341bab94d04de64127564.jpg" >
-</p>
-
-
 <img align ="right" alt="chemistry" width ="200" src = "https://i.pinimg.com/564x/d0/c6/d0/d0c6d04375239fca599767a41e75775d.jpg">
 
 <h4> I am a full stack software engineer with a background in Chemical Engineering. I love to learn and solve problems. My journey into software began with the automation of processes in the chemical industry, and has expanded to web development. </h4>
